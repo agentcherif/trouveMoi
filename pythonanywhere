@@ -1,0 +1,2 @@
+pip3.6 install --user pythonanywhere
+pa_autoconfigure_django.py --nuke --python=3.6 https://github.com/<your-github-username>/my-first-blog.git
